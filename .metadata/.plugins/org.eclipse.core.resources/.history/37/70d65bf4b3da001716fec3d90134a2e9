@@ -1,0 +1,31 @@
+
+public class UsingVariables {
+
+
+public static void main(String[] args)
+{
+	
+	
+	int num = 113 ;
+	
+	double num2 ;
+	
+	String word ;
+	
+	
+	
+	System.out.println("This is room #" + num );
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+}

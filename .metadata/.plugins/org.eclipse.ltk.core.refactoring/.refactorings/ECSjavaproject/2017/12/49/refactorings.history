@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;YourInitials.java&apos; to &apos;VariablesandNames.java&apos;&#x0D;&#x0A;- Original project: &apos;ECSjavaproject&apos;&#x0D;&#x0A;- Destination element: &apos;VariablesandNames.java&apos;&#x0D;&#x0A;- Original element: &apos;YourInitials.java&apos;" description="Copy compilation unit" destination="=VARIABLES/src&lt;{VariablesandNames.java" element1="/src&lt;{YourInitials.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1512584605227" units="1" version="1.0"/>
+</session>
